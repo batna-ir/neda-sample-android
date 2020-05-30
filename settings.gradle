@@ -1,0 +1,4 @@
+include ':nedasdk-debug'
+include ':nedasdk-debug'
+include ':app'
+rootProject.name = "Neda sample app"
